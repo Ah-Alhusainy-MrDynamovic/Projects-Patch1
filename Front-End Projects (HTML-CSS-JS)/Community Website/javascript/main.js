@@ -315,7 +315,7 @@ setInterval(() => {
 
 
 
-// Slider Section
+// Slideshow Section
 let arrImgIndex= 0
 const arrImg= [
 	`<img src="img/0.png" alt="" class="img-slider">`,
