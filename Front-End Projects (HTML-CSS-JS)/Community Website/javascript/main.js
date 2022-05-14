@@ -369,6 +369,8 @@ pre.setAttribute("disabled","")
 	
 	
 })
+// ===============================
+
  const allButtons= document.querySelectorAll(".mynumber")
  const parentNumber= document.getElementsByClassName("numbers")[0]
  console.log('allButtons: ', allButtons);
@@ -420,7 +422,10 @@ arrImgIndex=index
 	}
 	 })
  });
- 
+//  ================================================
+
+
+
 //  Toggle Tabs 
 const alltabs = document.querySelectorAll(".mybtn:not(#createacccount)")
 const parentOfButtons = document.querySelector(".alltabs")
@@ -447,6 +452,8 @@ alltabs.forEach(   (item, index) => {
 
 	})
 });
+
+// ===========================================
 // Form Validation 
 
 
